@@ -11,10 +11,6 @@
 <div align = "center">
   <img id="icon-detail-preview" width="70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg?">
   <img id="icon-detail-preview" width="70" src="https://pics.freeicons.io/uploads/icons/png/18852341021548218200-512.png">
-  <img src = "https://icongr.am/devicon/javascript-original.svg?size=70&color=0f0f0f">
-  <img src = "https://icongr.am/devicon/html5-original.svg?size=70&color=currentColor">
-  <img src = "https://icongr.am/devicon/css3-original.svg?size=70&color=currentColor">
-  <img src = "https://icongr.am/devicon/visualstudio-plain.svg?size=70&color=0f0f0f">  
 </div>
 
 ##
