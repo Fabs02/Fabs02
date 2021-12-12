@@ -6,13 +6,24 @@
 - 👯 Estou buscando colaborar com projetos Android
 - 📫 Como entrar em contato comigo: fabriciocalvanese@gmail.com
 
+##
+
+<div align = "center">
+  <img id="icon-detail-preview" width="70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg?">
+  <img id="icon-detail-preview" width="70" src="https://pics.freeicons.io/uploads/icons/png/18852341021548218200-512.png">
+  <img src = "https://icongr.am/devicon/javascript-original.svg?size=70&color=0f0f0f">
+  <img src = "https://icongr.am/devicon/html5-original.svg?size=70&color=currentColor">
+  <img src = "https://icongr.am/devicon/css3-original.svg?size=70&color=currentColor">
+  <img src = "https://icongr.am/devicon/visualstudio-plain.svg?size=70&color=0f0f0f">  
+</div>
+
+##
+
 <div align="center">
   <a href="https://github.com/Fabs02">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabs02&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabs02&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
-##
   
 <div style="display: inline_block"><br> 
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
