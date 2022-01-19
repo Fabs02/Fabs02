@@ -1,4 +1,4 @@
-### Olá! Eu sou o Fabricio Calvanese
+### Olá! Eu sou o Fabricio Calvanese 😁
 
 - 😄 Pronomes: Ele/Dele/He
 - 🔭 Atualmente estou em busca do meu primeiro emprego como Desenvolvedor Mobile Júnior
