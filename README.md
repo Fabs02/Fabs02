@@ -3,7 +3,7 @@
 - 😄 Pronomes: Ele/Dele/He
 - 🔭 Atualmente estou em busca do meu primeiro emprego como Desenvolvedor Mobile Júnior
 - 🌱 Estou estudando Kotlin
-- 👯 Estou buscando colaborar com projetos Android
+- 👯 Busco colaborar com projetos Android
 - 📫 Como entrar em contato comigo: fabriciocalvanese@gmail.com
 
 <div>
