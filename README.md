@@ -1,6 +1,6 @@
-### Olá! Seja bem-vindo ^-^
+### Olá! Seja bem-vindo!! ^-^
 
-  Eu sou o Fabricio Calvanese, e sou um Desenvolvedor Mobile Jr. :sparkles:
+  Eu sou o Fabricio Calvanese e sou um Desenvolvedor Mobile Jr. :sparkles:
 
 - 😄 Pronomes: Ele/Dele/He
 - 🔭 Atualmente estou em busca do meu primeiro emprego como Desenvolvedor Mobile Júnior
