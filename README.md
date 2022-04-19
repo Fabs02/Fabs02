@@ -8,6 +8,8 @@
 - 👐 Busco colaborar com projetos Android
 - 📫 Como entrar em contato comigo: fabriciocalvanese@gmail.com
 
+<img align="middle" height="200" alt="anime-hello" src="https://c.tenor.com/UyYi7LuF5UIAAAAC/ayaka-genshin-ayaka.gif">
+
 <div>
   <a href="https://github.com/Fabs02">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Fabs02&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -19,7 +21,6 @@
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="middle" height="150" alt="ayaya" src="https://tenor.com/view/ayaka-ayaya-genshin-impact-genshin-impact-characters-gif-25424772">
 </div>  
   
 ##
