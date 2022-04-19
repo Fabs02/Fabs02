@@ -4,8 +4,8 @@
 
 - 😄 Pronomes: Ele/Dele/He
 - 🔭 Atualmente estou em busca do meu primeiro emprego como Desenvolvedor Mobile Júnior
-- 🌱 Estou estudando Kotlin
-- 👯 Busco colaborar com projetos Android
+- 📘 Estou estudando Kotlin
+- 👏 Busco colaborar com projetos Android
 - 📫 Como entrar em contato comigo: fabriciocalvanese@gmail.com
 
 <div>
