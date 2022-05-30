@@ -8,7 +8,7 @@
 - 👐 Busco colaborar com projetos Android
 - 📫 Como entrar em contato comigo: fabriciocalvanese@gmail.com
 
-<img align="middle" height="200" alt="anime-hello" src="https://c.tenor.com/UyYi7LuF5UIAAAAC/ayaka-genshin-ayaka.gif">
+<img align="middle" height="200" alt="ayaya" src="https://c.tenor.com/UyYi7LuF5UIAAAAC/ayaka-genshin-ayaka.gif">
 
 <div>
   <a href="https://github.com/Fabs02">
